@@ -1,0 +1,13 @@
+body{
+    min-height: 200px;
+}
+.jumbotron{
+    background-color: rgb(180, 190, 238);
+    padding: 2rem 1rem;
+}
+.container{
+    padding-top: 1rem;
+}
+.card-text{
+    color: black;
+}

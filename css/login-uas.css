@@ -1,0 +1,95 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.banner{
+    background-image: url(Rectangle.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 100%;
+    height: 90vh;
+}  
+.brown {
+    color: #52361b;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .p_border {
+    border: 1px dashed #52361b;
+    max-width: 430px;
+    margin-top: 130px;
+  }
+  .heading {
+    font-size: 100px;
+    font-weight: 500px;
+    color: #52361b;
+    text-shadow: 0px 3px 0px rgb(255, 255, 255);
+    /* margin-bottom: -28px !important; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .heading2 {
+    font-size: 60px;
+    font-weight: 500px;
+    color: #52361b;
+    text-shadow: 0px 3px 0px rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .banner_img > img {
+    max-width: 290px;
+    max-height: auto;
+    min-width: 100%;
+  }
+  img.kanan{
+    float: right;
+    
+  }
+  .btn{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  .card {
+    border: none !important;
+  }
+  .kartu {
+    background-color: rgb(245, 239, 239);
+    box-shadow: 7px 7px 7px;
+    height: 55vh;
+  }
+  .kartu img{
+    width: 30rem;
+    float: right;
+  }
+  .kartu p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .container span{
+    color: #52361b;
+  }
+  #book {
+    background-image: url(contact.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 10% 70%;
+    height: 80vh;
+  }
+  .footer {
+    background-image: url(footer.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 100%;
+    height: 74vh;
+  }
+  .white_logo {
+    width: 450px;
+  }
+  .footer_email {
+    width: 19px;
+    height: 16px;
+  }
+  .p_w {
+    max-width: 350px !important;
+    min-width: 200px !important;
+  }
+  .sosial{
+    padding: 220px 150px;
+    padding-right: 0;
+  }
